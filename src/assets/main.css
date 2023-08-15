@@ -1,0 +1,11 @@
+
+body {
+    margin: 0;
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    max-width: 600px;
+    margin: auto;
+}
